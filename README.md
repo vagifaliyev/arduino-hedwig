@@ -1,5 +1,8 @@
 # Arduino Due Hedwig
 
+
+![alt text](https://github.com/vagifaliyev/arduino-hedwig/blob/master/images/tiger-owl-illo.jpg)
+
 A machine with attachable camera to detect the location of a sound source 
 via two sound sensors and rotate towards that direction using a stepper motor.
 
